@@ -7,6 +7,7 @@ using System.Linq;
 using System.Collections.ObjectModel;
 using System.Windows.Threading;
 
+// test git commit
 namespace SimulatorLogic {
 
     public interface IReceiver {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatorUI", "Kongsberg\SimulatorUI.csproj", "{9E9AC773-7333-4940-A114-85774F9035B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatorUI", "AlarmMonitor\SimulatorUI.csproj", "{9E9AC773-7333-4940-A114-85774F9035B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatorLogic", "SimulatorLogic\SimulatorLogic.csproj", "{EF9FCED2-3630-4671-A97A-15E90C7B82EB}"
 EndProject
